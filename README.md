@@ -15,7 +15,7 @@
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div align="center">
 
-[![PHP Badge](https://img.shields.io/badge/-PHP-ff5d30?style=for-the-badge&labelColor=black&logo=php&logoColor=ff5d30)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 [![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
