@@ -1,13 +1,13 @@
 <div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
 
-<h3 align="center">Heyy there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Shubham <span style="color:yellow;">aka SJ🤩</span> </h3>  
+<h3 align="center">Hey there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Hariket Sukeshkumar Sheth <span style="color:yellow;">🤩</span> </h3>  
 <br/>
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
- 👨🏻‍🎓 Second Year IT undergrad
-<br>🤖 Android & UI/UX Enthusiast
-<br>⚒️ Focusing on Contributing to Open Source💜
-<br>👨‍💻 Learning new technologies & trying to become better version of myself💪
+ 👨🏻‍🎓 First Year Undergrad at Vellore Institute of Technology, Chennai
+<br>🤖 Web & UI/UX Enthusiast
+<br>⚒️ Focusing on Contributing to Open Source and several projects💜
+<br>👨‍💻 Learning Java, React, Flutter and PHP
  </div>
 
 <br/>
@@ -15,7 +15,7 @@
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div align="center">
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-ff5d30?style=for-the-badge&labelColor=black&logo=php&logoColor=ff5d30)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 [![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
