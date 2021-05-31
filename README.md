@@ -1,4 +1,4 @@
-<div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>
+<!--<div align="center"><img src="https://res.cloudinary.com/sjdev/image/upload/v1618734904/Git-Readme/banner_she4lc.gif" ></div>-->
 
 <h3 align="center">Hey there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Hariket Sukeshkumar Sheth <span style="color:yellow;">🤩</span> </h3>  
 <br/>
@@ -15,9 +15,7 @@
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div align="center">
 
-[![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node&logoColor=3C873A)](#) [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
-[![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)[![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#)  [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
 </div>
 
@@ -51,17 +49,17 @@
 <div align="center">
 
 ### GitHub Stats
-![Shubham Jadhav Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSj07&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
+![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=HariketSheth&custom_title=SJ%27s%20GitHub%20Stats%20&show_icons=true&theme=onedark)
 
 ### GitHub Contributions
-![Shubham Jadhav GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=ShubhamSj07)
+![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=HariketSheth)
 
 <br/>
 <br/>
 
 #### Profile Views
-![visitors](https://gpvc.arturio.dev/ShubhamSj07)
+![visitors](https://gpvc.arturio.dev/HariketSheth)
 
-Leave a ⭐ from [here](https://github.com/ShubhamSj07/ShubhamSj07) if you like 😁
+Leave a ⭐ from [here](https://github.com/hariketsheth) if you like 😁
 
 </p>
