@@ -56,10 +56,6 @@
  
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&layout=compact&theme=radical&langs_count=8)
-
-<br/>
-<br/>
-
-Leave a ⭐ from [here](https://github.com/hariketsheth) if you like 😁
-
+ 
+<br>
 </p>
