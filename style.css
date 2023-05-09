@@ -134,7 +134,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: #7cc00f;
+    background: #8fd71c;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -191,14 +191,14 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(101, 139, 10);
+    background: rgb(166, 199, 20);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid rgb(101, 139, 10);
+    border: 2px solid rgb(166, 199, 20);
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
